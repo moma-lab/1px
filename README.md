@@ -15,7 +15,8 @@
 
 ## Contributions Welcome
 
-Created with ♥ by moma.dev.lab. Feel free to submit a pull request. Help is always appreciated.
+> Created with ♥ by moma.dev.lab<br />
+> Feel free to submit a pull request. Help is always appreciated.
 
 1. [Fork this repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo "Link to GitHub documentation on how to fork a repository")
    
